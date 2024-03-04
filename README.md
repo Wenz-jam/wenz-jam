@@ -6,8 +6,6 @@ Feel free to reach me in 中文/English.
 
 - Currently studying OSCPU's ysyx project :desktop_computer:  
   <img align="center" alt="Wenz-jam's GitHub stats" src="https://github-readme-stats-wenz-jams-projects.vercel.app/api/pin?username=OSCPU&repo=ysyx-workbench&theme=dark" />
-- Wan't to learn GTK4 and is translating GTK'4 Tutorial  
-  <img align="center" alt="Wenz-jam's GitHub stats" src="https://github-readme-stats-wenz-jams-projects.vercel.app/api/pin?username=Wenz-jam&repo=Gtk4-tutorial-Chinese&theme=dark" />
 ---  
 
 <p align="center">
